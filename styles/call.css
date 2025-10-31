@@ -6,6 +6,7 @@
     overflow: hidden; 
     width: 100%;
     padding: 20px;
+    border: 10px solid #fff;
     border-radius: 30px;
     background-color: var(--theme);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
